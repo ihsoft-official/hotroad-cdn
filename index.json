@@ -7,8 +7,8 @@
       "title": "Neon City Night",
       "category": "city",
       "orientation": "portrait",
-      "thumbnail": "https://mnasir.github.io/hotroad-cdn/thumbs/neon_city_night.jpg",
-      "video_url": "https://mnasir.github.io/hotroad-cdn/videos/neon_city_night.mp4",
+      "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/neon_city_night.jpg",
+      "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/neon_city_night.mp4",
       "effects": [
         "chevrons",
         "speed_lines"
@@ -19,8 +19,8 @@
       "title": "Wet Drift Arena",
       "category": "drift",
       "orientation": "portrait",
-      "thumbnail": "https://mnasir.github.io/hotroad-cdn/thumbs/wet_drift_arena.jpg",
-      "video_url": "https://mnasir.github.io/hotroad-cdn/videos/wet_drift_arena.mp4",
+      "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/wet_drift_arena.jpg",
+      "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/wet_drift_arena.mp4",
       "effects": [
         "chevrons",
         "tire_marks"
@@ -31,8 +31,8 @@
       "title": "Mountain Pass",
       "category": "highway",
       "orientation": "landscape",
-      "thumbnail": "https://mnasir.github.io/hotroad-cdn/thumbs/mountain_pass.jpg",
-      "video_url": "https://mnasir.github.io/hotroad-cdn/videos/mountain_pass.mp4",
+      "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/mountain_pass.jpg",
+      "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/mountain_pass.mp4",
       "effects": [
         "speed_lines"
       ]
@@ -42,8 +42,8 @@
       "title": "Grand Prix Straight",
       "category": "race",
       "orientation": "landscape",
-      "thumbnail": "https://mnasir.github.io/hotroad-cdn/thumbs/grand_prix.jpg",
-      "video_url": "https://mnasir.github.io/hotroad-cdn/videos/grand_prix.mp4",
+      "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/grand_prix.jpg",
+      "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/grand_prix.mp4",
       "effects": [
         "checkered",
         "chevrons"
