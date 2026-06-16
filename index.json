@@ -30,7 +30,7 @@
       "id": "remote_003",
       "title": "Mountain Pass",
       "category": "highway",
-      "orientation": "landscape",
+      "orientation": "portrait",
       "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/mountain_pass.jpg",
       "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/mountain_pass.mp4",
       "effects": [
@@ -41,7 +41,7 @@
       "id": "remote_004",
       "title": "Grand Prix Straight",
       "category": "race",
-      "orientation": "landscape",
+      "orientation": "portrait",
       "thumbnail": "https://ihsoft-official.github.io/hotroad-cdn/thumbs/grand_prix.jpg",
       "video_url": "https://ihsoft-official.github.io/hotroad-cdn/videos/grand_prix.mp4",
       "effects": [
